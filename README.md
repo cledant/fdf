@@ -1,5 +1,7 @@
 # Fdf
 
+![screenshot](/screenshot/fdf.png?raw=true)
+
 Wireframe rendering using 42 graphic api minilibx.
 
 ## Compiling
